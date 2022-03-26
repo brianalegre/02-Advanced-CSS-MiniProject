@@ -1,0 +1,22 @@
+* {
+    background-color: darkslategrey;
+    color: violet;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+header p {
+    color: white;
+}
+
+.container {
+    border: 2px dashed white;
+    height: 300px;
+    width: 30%;
+}
