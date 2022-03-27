@@ -25,18 +25,22 @@ header p {
     width: 30%;
     height: 300px;
     padding: 5px;
-    margin: 5px;
+    margin: 20px;
 }
 
 .card h1 {
     border: 2px solid white;
     border-radius: 10px;
-    width: 100%;
+    width: 90%;
     justify-content: center;
     margin: 10px;
+    position: relative;
+    top: -30px;
+    margin: auto;
 }
 
 .card {
     width: 100%;
 }
+
 
